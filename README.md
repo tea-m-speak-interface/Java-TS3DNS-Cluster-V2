@@ -1,2 +1,2 @@
-# Java-TS3DNS-Cluster-V2
+# Java TeamSpeak 3 DNS - Cluster (TS3DNSC)
  
